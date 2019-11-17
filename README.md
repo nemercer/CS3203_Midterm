@@ -1,5 +1,6 @@
 # CS3203_Midterm
 # Natalie Mercer
+# https://github.com/nemercer/CS3203_Midterm
 
 ## Yo Intial Page
 ![](https://github.com/nemercer/CS3203_Midterm/blob/master/Screenshot%20(5).png)
@@ -87,7 +88,7 @@ in who has access to their data. This would be a legal responsibility that the d
 arise.
 
 ## Professional Issues
-1. **Accept and provide appropriate professional review.** The Yo app is one that is easily availabe through the different app stores on
+1. **Accept and provide appropriate professional review.** The Yo app is one that is easily available through different app stores on
 different devices. Because of this users and other professionals are easily able to contact the creators and give them their feedback on
 the Yo app. It is in the professional responsibility of the developers to look at this feedback and take it into account when updating 
 their app. If a new feature, such as the Yo priority, were to be unpleasing to the users, the developers should be professional and take
@@ -97,7 +98,7 @@ app have the professional responsibilty to let the users know the details of how
 For the users to be fully disclosed with how their data is being used, which is how the law in South Korea demands it be, they must 
 know what data is being collected and who is seeing it. To fully understand this, the developers must make it easy for the users to 
 understand the computing behind what is being collected and what is not during the users time on the app. The developers of Yo should 
-also make sure the users understand the Yo priority correctly and do not misinterpret it.
+also make sure the users understand the Yo priority correctly and do not misinterpret it, which could lead to harm.
 3. **Design and implement systems that are robustly and usably secure.** To prevent a security leak that would lead to legal issues, 
 the developers of Yo have the professional responsbility to first create an app that is secure. Before releasing any new changes to 
 the Yo app they must first make sure that this is going to keep the users information secure.
