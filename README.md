@@ -1,6 +1,26 @@
 # CS3203_Midterm
 # Natalie Mercer
 
+## Yo Intial Page
+![](https://github.com/nemercer/CS3203_Midterm/blob/master/Screenshot%20(5).png)
+
+## Yo Sign Up Page
+![](https://github.com/nemercer/CS3203_Midterm/blob/master/Screenshot%20(6).png)
+
+##
+![](https://github.com/nemercer/CS3203_Midterm/blob/master/Screenshot%20(7).png)
+![](https://github.com/nemercer/CS3203_Midterm/blob/master/Screenshot%20(8).png)
+![](https://github.com/nemercer/CS3203_Midterm/blob/master/Screenshot%20(9).png)
+![](https://github.com/nemercer/CS3203_Midterm/blob/master/Screenshot%20(10).png)
+![](https://github.com/nemercer/CS3203_Midterm/blob/master/Screenshot%20(11).png)
+![](https://github.com/nemercer/CS3203_Midterm/blob/master/Screenshot%20(12).png)
+![](https://github.com/nemercer/CS3203_Midterm/blob/master/Screenshot%20(13).png)
+![](https://github.com/nemercer/CS3203_Midterm/blob/master/Screenshot%20(14).png)
+![](https://github.com/nemercer/CS3203_Midterm/blob/master/Screenshot%20(15).png)
+![](https://github.com/nemercer/CS3203_Midterm/blob/master/Screenshot%20(16).png)
+![](https://github.com/nemercer/CS3203_Midterm/blob/master/Screenshot%20(17).png)
+![](https://github.com/nemercer/CS3203_Midterm/blob/master/Screenshot%20(18).png)
+![](https://github.com/nemercer/CS3203_Midterm/blob/master/Screenshot%20(19).png)
 
 ## Group JS9 Country Choices
 Daniel Royer: China
