@@ -7,19 +7,43 @@
 ## Yo Sign Up Page
 ![](https://github.com/nemercer/CS3203_Midterm/blob/master/Screenshot%20(6).png)
 
-##
+## Yo Sign in Page
 ![](https://github.com/nemercer/CS3203_Midterm/blob/master/Screenshot%20(7).png)
+
+## Yo Home Page
 ![](https://github.com/nemercer/CS3203_Midterm/blob/master/Screenshot%20(8).png)
+
+## Yo Plus Sign Pop-Up
 ![](https://github.com/nemercer/CS3203_Midterm/blob/master/Screenshot%20(9).png)
+
+## Yo Add a Friend Page
 ![](https://github.com/nemercer/CS3203_Midterm/blob/master/Screenshot%20(10).png)
+
+## Yo Create a Group Page
 ![](https://github.com/nemercer/CS3203_Midterm/blob/master/Screenshot%20(11).png)
+
+## Yo Add Friends to Group Page
 ![](https://github.com/nemercer/CS3203_Midterm/blob/master/Screenshot%20(12).png)
+
+## Yo Location Page
 ![](https://github.com/nemercer/CS3203_Midterm/blob/master/Screenshot%20(13).png)
+
+## Yo Share Location Pop-Up
 ![](https://github.com/nemercer/CS3203_Midterm/blob/master/Screenshot%20(14).png)
+
+## Yo Name Location Pop-Up
 ![](https://github.com/nemercer/CS3203_Midterm/blob/master/Screenshot%20(15).png)
+
+## Yo Camera Page
 ![](https://github.com/nemercer/CS3203_Midterm/blob/master/Screenshot%20(16).png)
+
+## Yo User Page
 ![](https://github.com/nemercer/CS3203_Midterm/blob/master/Screenshot%20(17).png)
+
+## Yo Edit Profile Page
 ![](https://github.com/nemercer/CS3203_Midterm/blob/master/Screenshot%20(18).png)
+
+## Yo Priority Sending Pop-Up
 ![](https://github.com/nemercer/CS3203_Midterm/blob/master/Screenshot%20(19).png)
 
 ## Group JS9 Country Choices
